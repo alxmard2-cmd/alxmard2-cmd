@@ -15,7 +15,7 @@
 - [Exploring Server Manager Lab](https://docs.google.com/document/d/10Kc-aAR7gGm1dJQN9aGn8Z55KJKCZAR3/edit?usp=sharing&ouid=101813494216649451921&rtpof=true&sd=true)
 - [Active Directory](https://docs.google.com/document/d/1AFmCGsMU32rjyWAXHWKYl-QAh8AqQ6SH/edit?usp=drive_link&ouid=101813494216649451921&rtpof=true&sd=true)
 
-<h2> 🔗 Connect with me:</h2>
+<h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="Alejandro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
