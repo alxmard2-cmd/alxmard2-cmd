@@ -3,6 +3,7 @@
 <h2>🌐 Networking Projects:</h2>
 
 - [OSPF and Access Control Lists (ACLs)](https://github.com/alxmard2-cmd/OSPF-and-ACLs-Lab-Project)
+- [Extended Access Control Lists (ACLs)](https://github.com/alxmard2-cmd/Extended_ACLs)
 
 <h2>🏗️ IT infrastructure Labs (Conestoga College)</h2>
 
